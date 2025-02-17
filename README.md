@@ -1,6 +1,7 @@
 
-# Hi! I'm Aditya Sharma 👋,
- ## a passionate Software Developer with experience in Java, Python, C#, and full-stack development. I specialize in backend development with Flask, Java, and Spring Boot, and frontend development with React.
+# Hi! I'm Aditya Sharma 👋
+ ### a passionate Software Developer with experience in Java, Python, C#, and full-stack development. I specialize in backend development with Flask, Java, and Spring Boot, and frontend development with React.
+  <img src="https://tse4.mm.bing.net/th?id=OIP.oEHyAlWeGOit3B7pDCCKmwHaD4&pid=Api&P=0&h=180" width="200" height="200" alt="Your Name"/>
 
 🌟 **Tech Stack:**
 - 🖥️ **Languages:** Java, C#, JavaScript
@@ -8,6 +9,9 @@
 - 🚀 **Backend:** Node.js
 - 🛢️ **Databases:** MySQL, MongoDB
 - 🧰 **Tools & DevOps:** Git, VS Code
+
+
+
 
 📈 **Projects:**  
 - 🏥 **Hospital Management System** – A full-stack hospital management system built using Java, React, and SQL.  
