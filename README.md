@@ -17,13 +17,13 @@
 ## 🌍 Connect with Me  
 <p align="center">
   <a href="https://github.com/Adityasharma081003" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub"/>
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub"/>
   </a>
   <a href="rs6441419@gmail.com">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/gmail.png" alt="Gmail"/>
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/gmail-new.png" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/aditya-sharma-a1606325a/" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" alt="LinkedIn"/>
   </a>
 </p>
 
