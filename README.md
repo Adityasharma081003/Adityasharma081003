@@ -1,7 +1,7 @@
 
 # Hi! I'm Aditya Sharma 👋
  ### a passionate Software Developer with experience in Java, Python, C#, and full-stack development. I specialize in backend development with Flask, Java, and Spring Boot, and frontend development with React.
-  <img src="https://cdn.vectorstock.com/i/preview-1x/35/83/software-development-programming-vector-24033583.jpg" width="1000" height="200" alt="Your Name"/>
+  <img src="https://cdn.vectorstock.com/i/preview-1x/35/83/software-development-programming-vector-24033583.jpg" width="1000" height="800" alt="Your Name"/>
 
 🌟 **Tech Stack:**
 - 🖥️ **Languages:** Java, C#, JavaScript
