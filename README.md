@@ -1,5 +1,3 @@
- <h1>Hi 👋, I'm Aditya Sharma</h1>
-<p>Software Developer</p>
 <img src=github-header-image.png>
 
 
