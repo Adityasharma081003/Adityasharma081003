@@ -17,3 +17,5 @@
 - 🏢 [LinkedIn](https://www.linkedin.com/in/aditya-sharma-a1606325a/)  
 - 📧 [Email](rs6441419@gmail.com)  
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adityasharma081003&show_icons=true&theme=radical)
+
