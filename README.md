@@ -19,8 +19,7 @@
 📈 **Projects:**  
 - 🏥 **Hospital Management System** – A full-stack hospital management system built using Java, React, and SQL.  
 - 🔍 **IPL Score Prediction** – predicting score for a ipl team by analysing previous match score using python   
-
-📬 **Let's Connect:**  
+  
 ## 🌍 Connect with Me  
 <p align="center">
   <a href="https://github.com/Adityasharma081003" target="_blank">
