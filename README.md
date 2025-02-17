@@ -9,7 +9,7 @@
 |:-----------------------------------------------:|:----------------------------------------------:|:-------------------------------------------------:|
   
 ### 🔥 Frontend  
-| ![React](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />) | ![HTML5]( <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" /) | ![CSS3](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />) | ![TailwindCSS](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain-wordmark.svg" />) |
+| ![React](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />) | ![HTML5]( <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />) | ![CSS3](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />) | ![TailwindCSS](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain-wordmark.svg" />) |
 |:-----------------------------------------------:|:----------------------------------------------:|:-------------------------------------------------:|:--------------------------------------------------:|
 
 ### 🚀 Backend  
