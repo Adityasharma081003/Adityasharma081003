@@ -1,5 +1,9 @@
  <img src="github-header-image.png" alt="Centered Image" style="display: block; margin: auto;">
-
+<p style="font-family: 'Times New Roman', Times, serif;">
+  I enjoy building <em>scalable applications</em>, working with both <em>frontend and backend technologies</em>,  
+  and exploring <em>data mining and analytics</em>. Always eager to <em>learn and contribute</em> to open-source projects,  
+  I strive to create <em>efficient and innovative solutions</em>. Let's connect and collaborate!
+</p>
 
 
 <h2>🚀 Languages and Tools I Use</h2>
@@ -21,7 +25,7 @@
 
 📈 **Projects:**  
 - 🏥 **Hospital Management System** – A full-stack hospital management system built using Java, React, and SQL.  
-- 🔍 **IPL Score Prediction** – predicting score for a ipl team by analysing previous match score using python   
+- 🔍 **IPL Score Prediction** – predicting score for a ipl team by analysing previous match score using python data analysis techniques. 
   
 ## 🌍 Connect with Me  
 <p align="center">
