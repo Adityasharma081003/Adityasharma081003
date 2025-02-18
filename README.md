@@ -18,9 +18,10 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a></p>
 
 
-📈 **Projects:**  
-- 🏥 **Hospital Management System** – A full-stack hospital management system built using Java, React, and SQL.  
-- 🔍 **IPL Score Prediction** – predicting score for a ipl team by analysing previous match score using python   
+📈 ## Projects:  
+- 🏥 ### Hospital Management System** – A full-stack hospital management system built using Java, React, and SQL.  
+- 🔍 ### 
+IPL Score Prediction** – predicting score for a ipl team by analysing previous match score using python   
   
 ## 🌍 Connect with Me  
 <p align="center">
