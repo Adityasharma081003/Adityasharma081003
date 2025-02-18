@@ -1,4 +1,5 @@
-<img src=github-header-image.png>
+ <img src="github-header-image.png" alt="Centered Image" style="display: block; margin: auto;">
+
 
 
 <h2>🚀 Languages and Tools I Use</h2>
